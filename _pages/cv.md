@@ -7,8 +7,11 @@ redirect_from:
   - /resume
 ---
 
-<!-- # {% include base_path %}
-# 
+{% include base_path %}
+
+Download CV [here](https://marwa38.github.io/blob/files/cv.pdf)
+
+<!--# 
 # Education
 # ======
 # * B.S. in GitHub, GitHub University, 2012
