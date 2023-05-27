@@ -14,7 +14,7 @@ author_profile: true
 <!--{% for post in site.publications reversed %} -->
 <!--  {% include archive-single.html %} -->
 <!-- {% endfor %} -->
-a
+
 ## Masters publications
 * Zaki, A. H., El-Shafey, A., Moatmed, S. M., Abdelhay, R. A., Rashdan, E. F., Saleh, R. M., Abd-El Fatah, M., **Tawfik, M.M.**, Esmat, M. & El-dek, S. I. (2018). Morphology transformation from titanate nanotubes to TiO2 microspheres. Materials Science in Semiconductor Processing, 75, 10-17. Full text available at <a href="{{https://cest2017.gnest.org/sites/default/files/presentation_file_list/cest2017_01342_oral_paper.pdf}}">Materials Science in Semiconductor Processing</a>.
 * **Tawfik, M.**, Moustafa, M., Abumourad, I. M. K., El-Meliegy, E., & Refai, M. (2017, August). Evaluation of Nano Zinc Oxide feed additive on tilapia Growth and Immunity. In 15th International Conference on Environmental Science and Technology, Rhodes, Greece (Vol. 1342, No. 1, pp. 1-9). Full text available at <a href="{{https://www.sciencedirect.com/science/article/pii/S1369800117319194}}">15th International Conference on Environmental Science and Technology</a>.
