@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Marwa Mamdouh Tawfik"
+title: "Marwa M. Tawfik"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
