@@ -1,3 +1,13 @@
+---
+permalink: /non-menu-page/
+title: "Projects"
+excerpt: "This is a page not in the main menu"
+author_profile: true
+redirect_from: 
+  - "/nmp/"
+  - "/nmp.html"
+---
+
 * Host-microbiome interactions in gut regions after nutritional programming in Atlantic salmon (_Salmo salar_) with a plant-rich diet. Project code available at <a href="{{https://github.com/marwa38/NP_intesParts_integrative}}">NP_intesParts_integrative</a>.
 * Microbiome-transcriptome gut interactions after nutritional programming in Atlantic salmon (Salmo salar) with plant-rich diet. Project code available at <a href="{{https://github.com/marwa38/NP_devStages_integrative}}">NP_devStages_integrative</a>.
 * Gut regions transcriptome after nutritional programming in Atlantic salmon (Salmo salar) with plant- rich diet. Project code available at <a href="{{https://github.com/marwa38/NP_intesParts_RNAseq}}">NP_intesParts_RNAseq</a>.
