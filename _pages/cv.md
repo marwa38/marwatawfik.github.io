@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download CV [here](https://marwa38.github.io/files/cv.pdf)
+Kindly download CV [here](https://marwa38.github.io/files/cv.pdf)
 
 <!--# 
 # Education
