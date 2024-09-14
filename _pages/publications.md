@@ -24,7 +24,7 @@ author_profile: true
 6.	Zaki, A. H., et al. "Morphology transformation from titanate nanotubes to TiO2 microspheres." Materials Science in Semiconductor Processing 75 (2018): 10-17. 10.1016/j.mssp.2017.09.030
 7.	**Tawfik, M.**, et al. "Evaluation of nano zinc oxide feed additive on tilapia growth and immunity." 15th international conference on environmental science and technology, Rhodes, Greece. Vol. 1342. No. 1. 2017.
 
-## Presentations and/or Abstracts
+## Oral/Poster Presentations
 1.	**Marwa Mamdouh Tawfik**, Mónica B. Betancor, Stuart McMillan, Alex Douglas and Samuel A. M. Martin. Impact of early nutritional stimulus for 3 weeks on the intestinal microbiome of Atlantic Salmon (Salmo salar) in a year-long feeding trial, University of California (UCSD), La Jolla, CA, USA, June 17th, 2024. 
 2.	**Marwa Mamdouh Tawfik**, Wesley J. Sparagon, Emily C. Gentry, Jeremiah J. Minich, Lisa Vollbrecht, Lieve M. L. Laurens, Eric E. Allen, Neil A. Sims, Pieter C. Dorrestein, Linda Wegley Kelly, and Craig E. Nelson. Multi-omic analyses of gut sections microbiota and metabolome of Kyphosus fish species fed different seaweeds, UCSD, La Jolla, CA, USA, April 15th, 2024. 
 3.	**Marwa Mamdouh Tawfik**, Mónica B. Betancor, Stuart McMillan, Alex Douglas and Samuel A. M. Martin. Impact of nutritional programming on the intestinal transcriptome of Atlantic Salmon (Salmo salar), ICISB 2024, Seattle, WA, USA, March 11-14th, 2024. 
