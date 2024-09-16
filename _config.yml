@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Marwa Tawfik"
 title_separator          : "-"
 name                     : &name "Marwa Tawfik"
-description              : &description "PhD student at University of Aberdeen working on Nutritional Programming by invetigating gut microbiome and transcriptome"
+description              : &description "Researcher with particular interest in aquatic microbiome and metabolome."
 url                      : https://marwa38.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "marwa38/marwa38.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Marwa Tawfik"
   avatar           : "profile.png"
-  bio              : "PhD student at University of Aberdeen working on Nutritional Programming by invetigating gut microbiome and transcriptome"
-  location         : "Aberdeen, Scotland, UK"
+  bio              : "Researcher with particular interest in aquatic microbiome and metabolome."
+  location         : "La Jolla, CA, UK"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.eg/citations?user=dmo5gPwAAAAJ&hl=en"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@8MarwaTawfik8"
+  twitter          : #"@8MarwaTawfik8"
   vine             :
   weibo            :
   xing             :
