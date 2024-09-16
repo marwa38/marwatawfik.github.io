@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Marwa Tawfik"
+  name             : "Marwa Mamdouh Tawfik"
   avatar           : "profile.png"
   bio              : "Researcher with particular interest in aquatic microbiome and metabolome."
   location         : "La Jolla, CA, UK"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "marwammtawfik"
-  orcid            : "https://orcid.org/0000-0001-9203-2621"
+  orcid            : #"https://orcid.org/0000-0001-9203-2621"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
