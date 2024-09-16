@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Marwa Mamdouh Tawfik"
 title_separator          : "-"
 name                     : &name "Marwa Mamdouh Tawfik"
-description              : &description "Researcher with particular interest in aquatic microbiome and metabolome."
+description              : &description "Visiting scholar with particular interest in aquatic microbiome and metabolome."
 url                      : https://marwa38.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "marwa38/marwa38.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Marwa Mamdouh Tawfik"
   avatar           : "profile.png"
-  bio              : "Researcher with particular interest in aquatic microbiome and metabolome."
+  bio              : "Visiting scholar with particular interest in aquatic microbiome and metabolome."
   location         : "La Jolla, CA, USA"
   employer         :
   pubmed           : 
